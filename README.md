@@ -43,9 +43,8 @@ Everything described below the status table is the **design we are committing to
 17. [Roadmap](#17-roadmap)
 18. [Limitations and assumptions](#18-limitations-and-assumptions)
 19. [Contributing back to Drunix](#19-contributing-back-to-drunix)
-20. [Team](#20-team)
-21. [License and IP](#21-license-and-ip)
-22. [Acknowledgments](#22-acknowledgments)
+20. [License and IP](#20-license-and-ip)
+21. [Acknowledgments](#21-acknowledgments)
 
 ---
 
@@ -445,18 +444,7 @@ The hackathon encourages code contributions to the Drunix platform. If our testi
 
 ---
 
-## 20. Team
-
-| Name | Role | GitHub |
-|---|---|---|
-| Vedant S. Jadhav | Team lead | ferroflux |
-| (add) | (add) | (add) |
-| (add) | (add) | (add) |
-| (add) | (add) | (add) |
-
----
-
-## 21. License and IP
+## 20. License and IP
 
 The solution and code remain the intellectual property of the participants, per the hackathon FAQ. Proposed licence: Apache License 2.0, consistent with the upstream Drunix project. Add a `LICENSE` file before final submission.
 
@@ -464,7 +452,7 @@ This is a hackathon prototype. It is not production software, does not handle re
 
 ---
 
-## 22. Acknowledgments
+## 21. Acknowledgments
 
 - NPCI, for the open-source Drunix platform: https://github.com/npci/drunix
 - Citi and the India Blockchain Forum, for organising the hackathon and providing mentorship
